@@ -4,7 +4,7 @@ Sportify est un site web permettant aux utilisateurs de réserver des créneaux 
 
 ## 🌐 Aperçu
 
-![Aperçu du site](Images/accueil-sportify.JPG)
+![Aperçu du site](Images/accueil-sportify.GIF)
 
 > ⚠️ Ce dépôt contient la version **complète** du site (frontend + backend PHP + base de données MySQL).
 
